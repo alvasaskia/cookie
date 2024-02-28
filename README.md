@@ -7,7 +7,7 @@ I JavaScript används metoden `document.cookie` för att spara en cookie.
 
 En cookie med namnet *food* och värdet *pizza*:
 
-`document.cookie = "food=pizza`;
+`document.cookie = "food=pizza"`;
 
 
 
